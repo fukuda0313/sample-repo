@@ -3,4 +3,4 @@
 マージ用更新です 
 hello no-fast-forward
 
-hello conflict
+コンフリクトを起こします
