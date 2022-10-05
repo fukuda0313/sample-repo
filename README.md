@@ -7,6 +7,6 @@ hello no-fast-forward
 
 git fetchの練習
 
-occur conflic.
+occur conflict
 please help me.
 
