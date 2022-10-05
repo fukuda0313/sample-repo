@@ -7,8 +7,6 @@ hello no-fast-forward
 
 git fetchの練習
 
-hello everyone 
-i'm naoki fukuda
-please call me naoki.
-Nice to meet you .
+occur conflict
+please help me.
 
