@@ -6,3 +6,7 @@ hello no-fast-forward
 コンフリクトを起こします
 
 git fetchの練習
+
+occur conflic.
+please help me.
+
